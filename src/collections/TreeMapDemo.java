@@ -13,6 +13,8 @@ public class TreeMapDemo {
 		tm.put(1003, "Suku");
 		tm.put(1004, "Sukumar");
 		tm.put(1005, "Sripriya");
+		tm.put(1006, "null");
+		
 		System.out.println(tm);
 		
 	}
