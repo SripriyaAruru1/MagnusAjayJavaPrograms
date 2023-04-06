@@ -14,6 +14,7 @@ public class TreeMapDemo {
 		tm.put(1004, "Sukumar");
 		tm.put(1005, "Sripriya");
 		tm.put(1006, "null");
+		tm.put(1007, "null");
 		
 		System.out.println(tm);
 		
